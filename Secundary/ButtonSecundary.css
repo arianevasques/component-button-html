@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.buttonSecundary {
+    background-color: #F3F9FF;
+    border-radius: 4px;
+    padding: 6px 14px 6px 14px;
+    border: 1px solid #F3F9FF;
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #0067C7;
+    text-transform: uppercase;
+}
+.buttonSecundary--small {
+    font-size: 14px;
+}
+.buttonSecundary--medium {
+    padding: 14px 24px 14px 24px;
+    font-size: 16px;
+}

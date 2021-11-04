@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.buttonSpecial {
+    background-color: #FF5F00
+    ;
+    border-radius: 4px;
+    padding: 14px 24px 14px 24px;
+    border: 1px solid #FF5F00
+    ;
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+.buttonSpecial--medium {
+    font-size: 16px;
+}
+.buttonSpecial--large {
+    font-size: 20px;
+    line-height: 28px;
+    padding:12px 16px 12px 16px;
+    letter-spacing: 0.01em;
+}
+

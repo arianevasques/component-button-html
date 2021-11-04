@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,500&display=swap');
+
+.buttonTertiary {
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 6px 14px 6px 14px;
+    border: 1px solid #0067C7;
+   
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #0067C7;
+}
+.buttonTertiary--small {
+    font-size: 14px;
+}
+.buttonTertiary--medium {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 14px 24px 14px 24px;
+}
